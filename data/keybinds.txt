@@ -1,0 +1,14 @@
+{
+'zoom' : 'z', 
+'enter' : 'enter', 
+'gear' : 'g', 
+'ccrp' : '=', 
+'bomb' : '0', 
+'airbrake' : 'h',
+'smoke' : 'l',
+'map' : 'm',
+'throttleUp' : 'w',
+'throttleDown' : 's',
+'radar' : '9'
+}
+
