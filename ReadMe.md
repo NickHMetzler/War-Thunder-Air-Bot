@@ -8,6 +8,8 @@
    - Kfir Canard (IS)
    - F-4F (GR)
    - MiG-23BN (GR)
+   - Mirage 5F (FR)
+   - F-84F (FR)
 
    The list of supported resolutions are:
    - 2560x1080 
