@@ -17,6 +17,7 @@
    - F-84F (FR)
 
 **If you would like to request a plane to be added, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
+
 **Note: Planes are required to have [CCRP](https://wiki.warthunder.com/Ballistic_Computer#List_of_vehicles_with_Ballistic_Computers).**
 
 ## Supported Resolutions
