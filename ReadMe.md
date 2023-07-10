@@ -2,8 +2,13 @@
 
 ![App Screenshot](assets/screenshots/main_screenshot.png?raw=true "Air Bot Main Screen")
 
-   This is a Bot designed to play many planes in War Thunder automatically.
+## Features
+   - Automatically bombs bases.
+   - Generates in game currency (Silver Lions).
+   - Automatically Researches Planes.
+   - Automatically Upgrades Planes.
 
+## Working Vehicles
    The list of working planes are:
    - Kfir Canard (IS)
    - F-4F (GR)
@@ -11,11 +16,14 @@
    - Mirage 5F (FR)
    - F-84F (FR)
 
-   The list of supported resolutions are:
+**If you would like to request a plane to be added, please send me a message on (https://discord.gg/pD368UGSJ6 "Discord").**
+**Note: Planes are required to have (https://wiki.warthunder.com/Ballistic_Computer#List_of_vehicles_with_Ballistic_Computers "CCRP").**
+
+## Supported Resolutions
    - 2560x1080 
    - 2560x1440
 
-   It automatically plays the game and bombs bases to generate silver lions and research points. Please follow the instructions below to set up and use the bot effectively.
+ **If your resolution is not supported, please send me a message on (https://discord.gg/pD368UGSJ6 "Discord").**
 
 ## Installation
 
