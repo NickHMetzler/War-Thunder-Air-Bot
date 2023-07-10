@@ -24,7 +24,7 @@
    - 2560x1080 
    - 2560x1440
 
- **If your resolution is not supported, please send me a message on (https://discord.gg/pD368UGSJ6 "Discord").**
+ **If your resolution is not supported, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
 
 ## Installation
 
