@@ -13,6 +13,7 @@
    - Kfir Canard (IS)
    - F-4F (GR)
    - MiG-23BN (GR)
+   - Milan (FR)
    - Mirage 5F (FR)
    - F-84F (FR)
 
@@ -40,6 +41,7 @@
    4. Set `Set Mission Bombing Target` to your preferred CCRP keybind.
    5. Set `Switch Radar/IRST search on/off` to your preferred Radar keybind.
    6. Set `Drop bomb series` to your preferred bombing keybind.
+   7. Set `Deactivate Target Point` to your preferred bombing keybind.
       
    ### Setting in game Visual Parameters
    1. Open Settings menu.
@@ -60,6 +62,7 @@
    ### Keybind equivalents keybinds.txt vs in game
    - Keybind `bomb` in game is `Drop bomb series`.
    - Keybind `ccrp` in game is `Set Mission Bombing Target`.
+   - Keybind `ccrp_off` in game is `Deactivate Target Point`.
    - Keybind `radar` in game is `Switch Radar/IRST search on/off`.
      
 ## Usage
