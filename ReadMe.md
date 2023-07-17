@@ -13,9 +13,10 @@
    - Kfir Canard (IS)
    - F-4F (GR)
    - MiG-23BN (GR)
-   - Milan (FR)
    - Mirage 5F (FR)
+   - Milan (FR)
    - F-84F (FR)
+   - Su-25k (RU) (In Beta)
 
 **If you would like to request a plane to be added, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
 
@@ -39,9 +40,10 @@
    2. Set `Mouse Wheel (aircraft)` to `Throttle axis`.
    3. Set `Fire countermeasures` to `M.Wheel Down`(Mouse Wheel Down).
    4. Set `Set Mission Bombing Target` to your preferred CCRP keybind.
-   5. Set `Switch Radar/IRST search on/off` to your preferred Radar keybind.
-   6. Set `Drop bomb series` to your preferred bombing keybind.
-   7. Set `Deactivate Target Point` to your preferred bombing keybind.
+   5. Set `Deactivate Target Point` to your preferred CCRP Off keybind.
+   6. Set `Switch Radar/IRST search on/off` to your preferred Radar keybind.
+   7. Set `Drop bomb series` to your preferred bombing keybind.
+   
       
    ### Setting in game Visual Parameters
    1. Open Settings menu.
