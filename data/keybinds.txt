@@ -3,7 +3,7 @@
 'enter' : 'enter', 
 'gear' : 'g', 
 'ccrp' : '=', 
-'ccrp_off' : 'f10,
+'ccrp_off' : 'f10',
 'bomb' : '0', 
 'airbrake' : 'h',
 'smoke' : 'l',
