@@ -8,24 +8,24 @@
    - Automatically Researches Planes.
    - Automatically Upgrades Planes.
 
-## Working Vehicles
-   The list of working planes are:
+## Working Vehicles/Preset Aircraft
+   The List of Supported Preset Aircraft are:
    - Kfir Canard (IS)
    - F-4F (GR)
    - MiG-23BN (GR)
    - Mirage 5F (FR)
    - Milan (FR)
    - F-84F (FR)
-   - Su-25k (RU) (In Beta)
+   - Su-25k (RU)
 
-## Custom Mode
-   The ability to use any plane with [CCRP](https://wiki.warthunder.com/Ballistic_Computer#List_of_vehicles_with_Ballistic_Computers) and set custom parameters has been added in a new tab!
+   **If you would like to request an Aircraft to be added to the preset list, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
 
-**If you would like to request a plane to be added, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
-
-**Note: Planes are required to have [CCRP](https://wiki.warthunder.com/Ballistic_Computer#List_of_vehicles_with_Ballistic_Computers).**
+   ### Custom Mode/Other Aircraft
+      The ability to use any Aircraft and set custom parameters using the base rush logic has been added in a new tab!
+      **Note: Planes are required to have [CCRP](https://wiki.warthunder.com/Ballistic_Computer#List_of_vehicles_with_Ballistic_Computers).**
 
 ## Supported Resolutions
+   - 1920x1080 (In Testing)
    - 2560x1080 
    - 2560x1440
 
@@ -87,4 +87,8 @@
 
 ## Contributions
 
-   Contributions to the Bot are welcome! If you encounter any issues or have suggestions for enhancements, please submit them via the GitHub repository's issue tracker or contact me directly if you wish to be part of the team.
+   Contributions to the Bot are welcome! 
+
+   If you encounter any issues or have suggestions for enhancements, please submit them either via the GitHub repository's issue tracker or on my [Discord Server](https://discord.gg/pD368UGSJ6).
+
+   If you wish to be part of the team or help contribute to this project you can view the requirements and submit an application on my [Discord Server](https://discord.gg/pD368UGSJ6).
