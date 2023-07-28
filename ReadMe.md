@@ -21,9 +21,9 @@
    **If you would like to request an Aircraft to be added to the preset list, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
 
    ### Custom Mode/Other Aircraft
-   - The ability to use any Aircraft and set custom parameters using the base rush logic has been added in a new tab!
-   
+   - The ability to use any Aircraft and set custom parameters using the base rush logic has been added in a new tab!  
 **Note: Planes are required to have [CCRP](https://wiki.warthunder.com/Ballistic_Computer#List_of_vehicles_with_Ballistic_Computers).**
+
 
 ## Supported Resolutions
    - 1920x1080 (In Testing)
