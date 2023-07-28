@@ -24,5 +24,6 @@
     (0.54, 0.83) : 'CityALT',
     (0.93, 0.25) : 'Pyrenees',
     (0.86, 0.39) : 'Pyrenees',
-    (0.47, 0.83) : 'PyreneesALT'
+    (0.47, 0.83) : 'PyreneesALT',
+    (0.59, 0.6) : 'LadogaLeft'
 }

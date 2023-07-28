@@ -10,6 +10,5 @@
 'map' : 'm',
 'throttleUp' : 'w',
 'throttleDown' : 's',
-'radar' : 'f12'
+'radar' : '9'
 }
-
