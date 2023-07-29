@@ -58,8 +58,7 @@
    ### Setting Program Keybinds
    1. Open the `data/keybinds.txt` file in a text editor.
    2. Review the default keybinds provided and modify them as needed to match your preferred settings in game.
-   3. Set `Switch Radar/IRST search on/off` to your preferred Radar keybind.
-   4. Save the `data/keybinds.txt` file.
+   3. Save the `data/keybinds.txt` file.
 
    ### Setting Up Auto Activation Key
    1. Open the `.env` file in a text editor.
