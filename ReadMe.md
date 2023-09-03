@@ -48,22 +48,18 @@
    5. Set `Deactivate Target Point` to your preferred CCRP Off keybind.
    6. Set `Switch Radar/IRST search on/off` to your preferred Radar keybind.
    7. Set `Drop bomb series` to your preferred bombing keybind.
+   8. Set `Hold throttle for WEP` to `No`.
    
-      
    ### Setting in game Visual Parameters
    1. Open Settings menu.
    2. In the `Battle Interface` tab, set all colors to default.
    3. In the`Air Battle Settings` tab, set HUD colors to default.
 
    ### Setting Program Keybinds
-   1. Open the `data/keybinds.txt` file in a text editor.
-   2. Review the default keybinds provided and modify them as needed to match your preferred settings in game.
-   3. Save the `data/keybinds.txt` file.
+   1. In the settings menu click `Change Keybinds` and save your preferred keybinds.
 
    ### Setting Up Auto Activation Key
-   1. Open the `.env` file in a text editor.
-   2. After the = on the line with `activation_key` paste in your activation key.
-   3. Save the `.env` file.
+   1. The program will automatically save your activation key after first use.
 
    ### Keybind equivalents keybinds.txt vs in game
    - Keybind `bomb` in game is `Drop bomb series`.
@@ -74,7 +70,8 @@
 ## Usage
 
    1. Run the `exe` file as Administrator to avoid any errors.
-   2. Follow the on-screen instructions to start the bot.
+   2. Go to the settings menu and set up your resolution.
+   3. Follow the on-screen instructions to start the bot.
    - To stop the bot, press and hold the `q` key for a second.
   
 ## Important Notes
