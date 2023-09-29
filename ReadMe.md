@@ -27,7 +27,7 @@
 
 
 ## Supported Resolutions
-   - 1920x1080 (In Testing)
+   - 1920x1080
    - 2560x1080 
    - 2560x1440
 
@@ -55,6 +55,14 @@
    2. In the `Battle Interface` tab, set all colors to default.
    3. In the`Air Battle Settings` tab, set HUD colors to default.
 
+   ### UI Scales
+   - 1920x1080
+      - UI scale: "Compact" or 73%
+   - 2560x1080
+      - UI scale: "Small" or 68%
+   - 2560x1440
+      - UI scale: "Small" or 68%
+
    ### Setting Program Keybinds
    1. In the settings menu click `Change Keybinds` and save your preferred keybinds.
 
@@ -66,7 +74,12 @@
    - Keybind `ccrp` in game is `Set Mission Bombing Target`.
    - Keybind `ccrp_off` in game is `Deactivate Target Point`.
    - Keybind `radar` in game is `Switch Radar/IRST search on/off`.
-     
+
+   ### Other Settings
+   - `Pitch Up Multiplier` - This multiplies how much your aircraft will pitch up when taking off.
+   - `Distance Multiplier` - This multiplies the distance at which your arcraft will start braking before bombing.
+   - `Aircraft heads to enemy Airfield` - This will make the bot head to the enemy airfield after bombing. This is more efficient, but also more detectable.   
+   - `Change Minimum Height` - This allows you to change the height that your bot is trying to maintain on a given map. It is recommmended to increase the height for slower systems.
 ## Usage
 
    1. Run the `exe` file as Administrator to avoid any errors.

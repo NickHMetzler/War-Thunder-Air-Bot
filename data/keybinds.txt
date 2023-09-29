@@ -2,7 +2,7 @@
 'zoom' : 'z', 
 'enter' : 'enter', 
 'gear' : 'g', 
-'secondary' : 'l',
+'secondary' : 'c',
 'ccrp' : '=', 
 'ccrp_off' : 'f10',
 'bomb' : '0', 
