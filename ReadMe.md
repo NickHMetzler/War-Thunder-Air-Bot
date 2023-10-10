@@ -17,6 +17,8 @@
    - Milan (FR)
    - F-84F (FR)
    - Su-25k (RU)
+   - Harrier (ANY)
+   - Tornado IDS (GR)
 
    **If you would like to request an Aircraft to be added to the preset list, please send me a message on my [Discord Server](https://discord.gg/pD368UGSJ6).**
 
